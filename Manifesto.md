@@ -6,7 +6,7 @@ Manifesto
 
 We approach that mission with Bitcoin's technology and community as our focus. There is tremendous potential in Bitcoin - from the opportunities it creates for entrepreneurs to the purchasing power it provides for citizens of countries large and small. Our goal is to help Bitcoin deliver on that potential.
 
-This Bitcoin Alliance Chapter has chosen three primary objectives for fulfilling its mission. We believe that these activities will be of the greatest benefit to the Bitcoin community:
+This Bitcoin Alliance Chapter has chosen four primary objectives for fulfilling its mission. We believe that these activities will be of the greatest benefit to the Bitcoin community:
 
 
 ###Education
@@ -20,3 +20,7 @@ Furthering the adoption of Bitcoin as a payment method, whether as a primary or 
 ###Promotion
 
 In the context of public misunderstandings, misinterpretations and misrepresentations, Bitcoin needs to be clearer about its purpose and technology. Allowing the community to speak through a local source will enable Bitcoin to improve its reputation.
+
+###Connection
+ 
+The goal is to align groups interested in bitcoin throughout the UK which may be too small to stand on their own. They can then consider themselves a member of this Alliance enabling members to pool and share resources when the need is required, be it for marketing, promotion or technical resources.
